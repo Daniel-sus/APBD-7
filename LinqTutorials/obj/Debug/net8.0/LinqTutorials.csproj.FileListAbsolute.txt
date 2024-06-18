@@ -1,0 +1,14 @@
+/Users/danielyaroshovets/Desktop/LinqCwiczenia 3/LinqTutorials/bin/Debug/net8.0/LinqTutorials
+/Users/danielyaroshovets/Desktop/LinqCwiczenia 3/LinqTutorials/bin/Debug/net8.0/LinqTutorials.deps.json
+/Users/danielyaroshovets/Desktop/LinqCwiczenia 3/LinqTutorials/bin/Debug/net8.0/LinqTutorials.runtimeconfig.json
+/Users/danielyaroshovets/Desktop/LinqCwiczenia 3/LinqTutorials/bin/Debug/net8.0/LinqTutorials.dll
+/Users/danielyaroshovets/Desktop/LinqCwiczenia 3/LinqTutorials/bin/Debug/net8.0/LinqTutorials.pdb
+/Users/danielyaroshovets/Desktop/LinqCwiczenia 3/LinqTutorials/obj/Debug/net8.0/LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielyaroshovets/Desktop/LinqCwiczenia 3/LinqTutorials/obj/Debug/net8.0/LinqTutorials.AssemblyInfoInputs.cache
+/Users/danielyaroshovets/Desktop/LinqCwiczenia 3/LinqTutorials/obj/Debug/net8.0/LinqTutorials.AssemblyInfo.cs
+/Users/danielyaroshovets/Desktop/LinqCwiczenia 3/LinqTutorials/obj/Debug/net8.0/LinqTutorials.csproj.CoreCompileInputs.cache
+/Users/danielyaroshovets/Desktop/LinqCwiczenia 3/LinqTutorials/obj/Debug/net8.0/LinqTutorials.dll
+/Users/danielyaroshovets/Desktop/LinqCwiczenia 3/LinqTutorials/obj/Debug/net8.0/refint/LinqTutorials.dll
+/Users/danielyaroshovets/Desktop/LinqCwiczenia 3/LinqTutorials/obj/Debug/net8.0/LinqTutorials.pdb
+/Users/danielyaroshovets/Desktop/LinqCwiczenia 3/LinqTutorials/obj/Debug/net8.0/LinqTutorials.genruntimeconfig.cache
+/Users/danielyaroshovets/Desktop/LinqCwiczenia 3/LinqTutorials/obj/Debug/net8.0/ref/LinqTutorials.dll
